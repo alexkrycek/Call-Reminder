@@ -48,14 +48,14 @@ def loginParams():
 def analyzeRecords(statement):
     # [ Name, phone number, calls to place on a monthly basis ]
     contacts = [
-    ["Amalia", "440-371-2039", 31],
-    ["Francisco", "510-717-9810", 4],
-    ["Joey", "646-263-4189", 4],
-    ["Christian", "530-220-3381", 4],
-    ["Eric", "443-285-1602", 4],
-    ["Parents", "818-361-7457", 4],
-    ["Juan", "818-282-3467", 1],
-    ["Eddie", "818-468-6411", 1]
+    ["Amalia", "", 31],
+    ["Francisco", "", 4],
+    ["Joey", "", 4],
+    ["Christian", "", 4],
+    ["Eric", "", 4],
+    ["Parents", "", 4],
+    ["Juan", "", 1],
+    ["Eddie", "", 1]
     ]
 
     # Open log file
